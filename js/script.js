@@ -1,18 +1,18 @@
 const produtos = [
 
 {
-nome:"Base Líquida",
-img:"https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500"
+nome:"Hidratante Facial Creamy",
+img:"img/hidra.webp"
 },
 
 {
-nome:"Batom Matte",
-img:"https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=500"
+nome:"Pó solto Niina Secrets",
+img:"img/po.webp"
 },
 
 {
-nome:"Máscara de Cílios",
-img:"https://images.unsplash.com/photo-1631214540242-6f6b5c4b30af?w=500"
+nome:"Serum hidratante Creamy skincare",
+img:"img/serum.webp"
 }
 
 ];
